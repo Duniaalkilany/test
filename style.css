@@ -1,0 +1,43 @@
+.products-container{
+    margin-top: 20px;
+}
+
+
+.product-header{
+width: 100%;
+max-width: 2000px;
+display: flex;
+border-bottom: 4px solid black;
+justify-content: flex-start;
+
+}
+
+.product-title{
+
+    width: 110%;
+}
+
+.price{
+    width: 40%;
+    display: flex;
+    align-items: center;
+}
+
+.quantity{
+
+
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+
+.total{
+
+    width: 30%;
+    display: flex;
+    align-items: center;
+
+
+}
+
+
